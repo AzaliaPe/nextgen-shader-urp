@@ -113,7 +113,7 @@
     },
     "m_Slots": [
         {
-            "m_Id": "ece0198404644867bfe277e6390eb981"
+            "m_Id": "7a6a4d1042964b89a79c529008ee9e26"
         }
     ],
     "synonyms": [],
@@ -297,6 +297,21 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
+    "m_ObjectId": "7a6a4d1042964b89a79c529008ee9e26",
+    "m_Id": 1,
+    "m_DisplayName": "Lambert",
+    "m_SlotType": 0,
+    "m_Hidden": false,
+    "m_ShaderOutputName": "Lambert",
+    "m_StageCapability": 3,
+    "m_Value": 0.0,
+    "m_DefaultValue": 0.0,
+    "m_Labels": []
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.SubGraphNode",
     "m_ObjectId": "c1bb22430dd14654b0041bfec019c7aa",
     "m_Group": {
@@ -390,29 +405,6 @@
     "m_StageCapability": 3,
     "m_Value": 0.0,
     "m_DefaultValue": 0.0,
-    "m_Labels": []
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.Vector3MaterialSlot",
-    "m_ObjectId": "ece0198404644867bfe277e6390eb981",
-    "m_Id": 1,
-    "m_DisplayName": "Lambert",
-    "m_SlotType": 0,
-    "m_Hidden": false,
-    "m_ShaderOutputName": "Lambert",
-    "m_StageCapability": 3,
-    "m_Value": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-    },
-    "m_DefaultValue": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-    },
     "m_Labels": []
 }
 
